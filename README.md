@@ -1,4 +1,4 @@
-### Welcome to my profile
+# Welcome to my profile
 
 I am a beginner trying to learn basic programming.
 
@@ -18,4 +18,6 @@ Goals:
 * Some open source games
 * Whatever else I feel I should publish on here
 
-Thank you for visiting my profile, enjoy :D
+Thank you for visiting my profile
+
+![trll](https://cdn.discordapp.com/attachments/829708125640327248/835436576023642123/822872461245677649.png)
