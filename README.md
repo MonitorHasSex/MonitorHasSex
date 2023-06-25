@@ -3,7 +3,7 @@
 I am a programmer who codes things lol
 
 Languages I pretty much know:
-Python
+* Python
 
 Currently trying to learn about:
 * C# (Basic\complex programs)
