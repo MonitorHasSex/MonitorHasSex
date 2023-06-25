@@ -1,21 +1,19 @@
 # Welcome to my profile
 
-I am a beginner trying to learn basic programming.
+I am a programmer who codes things lol
+
+Languages I pretty much know:
+Python
 
 Currently trying to learn about:
-* HTML/CSS (mainly more about it)
-* C# (Game Design and Programs in general)
-* Python (Discord bots, Webscraping)
-* C++ (maybe)
+* C# (Basic\complex programs)
+* C++ (Basic\complex programs)
 
 Goals:
-* Create a decent vr game
-* Make a decent website to fuck around on
-* Make a decent program in C#
+* Create programs to help myself and possibly others out
 
 ### What I plan on using this github page for:
 * Publishing convenient little programs
-* Some open source games
 * Whatever else I feel I should publish on here
 
 Thank you for visiting my profile
