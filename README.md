@@ -6,8 +6,9 @@ Languages I pretty much know:
 * Python
 
 Currently trying to learn about:
-* C# (Basic\complex programs)
-* C++ (Basic\complex programs)
+* C#
+* C++
+* Powershell
 
 Goals:
 * Create programs to help myself and possibly others out
