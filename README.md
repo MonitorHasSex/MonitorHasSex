@@ -1,16 +1,13 @@
 # Welcome to my profile
 
-I am a programmer who codes things lol
+Hi! I'm monbear, an intermediate programmer/expert troubleshooter.
 
-Languages I pretty much know:
+Languages I know:
 * Python
 
-Currently trying to learn about:
+Languages I'm learning more about:
 * C#
 * Javascript
-
-Goals:
-* Create programs to help myself and possibly others out
 
 Thank you for visiting my profile
 
