@@ -7,15 +7,10 @@ Languages I pretty much know:
 
 Currently trying to learn about:
 * C#
-* C++
-* Powershell
+* Javascript
 
 Goals:
 * Create programs to help myself and possibly others out
-
-### What I plan on using this github page for:
-* Publishing convenient little programs
-* Whatever else I feel I should publish on here
 
 Thank you for visiting my profile
 
